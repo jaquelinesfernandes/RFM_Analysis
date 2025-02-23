@@ -10,10 +10,12 @@ Dataset: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 ![alt text](image-1.png)
 
 
-![alt text](image-2.png)
+![alt text](image-4.png)
 
 
-![alt text](image-3.png)
+![alt text](newplot.png)
+
+
 
 
 **Recomendações Para a Área de Negócio:**
